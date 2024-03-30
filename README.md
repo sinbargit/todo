@@ -1,3 +1,4 @@
 # README
+该项目基于umi 脚手架生成
 
-`@umijs/max` 模板项目，更多功能参考 [Umi Max 简介](https://umijs.org/docs/max/introduce)
+### 使用 yarn dev运行它，运行后访问http://localhost:8000/home
